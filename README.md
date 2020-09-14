@@ -2,7 +2,7 @@
 
 Downloads for airports!  机场用下载链接
 
-ssr\v2ray\clash\surfboard\netch 下载链接
+ssr\v2ray\clash\surfboard\netch 常用科学上网软件下载链接
 
 超快、不过墙
 
@@ -27,3 +27,5 @@ ssr\v2ray\clash\surfboard\netch 下载链接
 10. ShawdowsockX-NG for osx https://cdn.jsdelivr.net/npm/osxssdl/ShadowsocksX-NG.zip
 
 11.clash for Linux https://cdn.jsdelivr.net/npm/clash4linux/ all versions!
+
+©liuns.com 锂云 all rights reserved
