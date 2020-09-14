@@ -1,6 +1,6 @@
 # ss-download
 
-Downloads for airports!  机场用下载链接
+Downloads for airports!  机场用常用下载链接
 
 ssr\v2ray\clash\surfboard\netch 常用科学上网软件下载链接
 
